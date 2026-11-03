@@ -5,7 +5,7 @@ from telebot import types
 from datetime import date, datetime
 import random
 
-#q1ncite
+
 token = '1370200842:AAHj9GdZCdnE6mcgMLL5lmHj2J_qu5b6C0w'
 bot = telebot.TeleBot(token)
 
